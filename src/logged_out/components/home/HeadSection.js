@@ -14,6 +14,7 @@ import {
 } from "@material-ui/core";
 import WaveBorder from "../../../shared/components/WaveBorder";
 import ImageUpload from "./ImageUpload";
+import festoLogo from "./logo_festo.svg"
 
 const styles = (theme) => ({
     extraLargeButtonLabel: {
@@ -139,14 +140,15 @@ function HeadSection(props) {
                                         </Typography>
                                     </Box>
                                     <div>
-                                        <Box mb={2}>
-                                            <Typography
-                                                variant={isWidthUp("lg", width) ? "h6" : "body1"}
-                                                color="textSecondary"
-                                            >
-                                                Visualizador de modelos en realidad aumentada
-                                            </Typography>
-                                        </Box>
+                                        <img src={festoLogo}/>
+                                        {/*<Box mb={2}>*/}
+                                        {/*    <Typography*/}
+                                        {/*        variant={isWidthUp("lg", width) ? "h6" : "body1"}*/}
+                                        {/*        color="textSecondary"*/}
+                                        {/*    >*/}
+                                        {/*        Visualizador de modelos en realidad aumentada*/}
+                                        {/*    </Typography>*/}
+                                        {/*</Box>*/}
 
                                     </div>
                                 </Box>
