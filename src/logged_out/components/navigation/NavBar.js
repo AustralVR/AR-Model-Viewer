@@ -73,7 +73,7 @@ function NavBar(props) {
               display="inline"
               color="primary"
             >
-              Lab VR
+              Austral VR + Festo
             </Typography>
             <Typography
               variant="h4"

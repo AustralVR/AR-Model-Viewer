@@ -158,14 +158,14 @@ function Footer(props) {
           </Hidden>
           <Grid item xs={12} md={6} lg={4}>
             <Typography variant="h6" paragraph className="text-white">
-              Proyecto Universidad Austral
+              Colaboración entre la Universidad Austral y Festo
             </Typography>
             <Typography style={{ color: "#8f9296" }} paragraph>
-              Prueba piloto para la exhibición de modelados para el laboratorio de industria 4.0.
+              Exhibición de modelados para el laboratorio de industria 4.0.
             </Typography>
-            <Typography style={{ color: "#8f9296" }} paragraph>
-              Laboratorio de Realidad Virtual de la Universidad Austral
-            </Typography>
+            {/*<Typography style={{ color: "#8f9296" }} paragraph>*/}
+            {/*  Laboratorio de Realidad Virtual de la Universidad Austral*/}
+            {/*</Typography>*/}
             <Box display="flex">
               {socialIcons.map((socialIcon, index) => (
                 <Box key={index} mr={index !== socialIcons.length - 1 ? 1 : 0}>

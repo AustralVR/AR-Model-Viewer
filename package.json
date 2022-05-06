@@ -2,7 +2,7 @@
   "name": "ar-model-viewer",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://kuhamaven.github.io/AR-Model-Viewer/",
+  "homepage": "https://australvr.github.io/AR-Model-Viewer/",
   "description": "Web page for AR Model Viewer",
   "dependencies": {
     "@date-io/date-fns": "^1.3.13",
@@ -32,7 +32,7 @@
     "react-scripts": "^4.0.3",
     "react-scroll-section": "^3.1.0",
     "recharts": "^2.1.2",
-    "typescript": "^4.5.2",
+    "typescript": "^4.5.0",
     "workbox-background-sync": "^6.2.4",
     "workbox-broadcast-update": "^6.2.2",
     "workbox-cacheable-response": "^6.2.4",

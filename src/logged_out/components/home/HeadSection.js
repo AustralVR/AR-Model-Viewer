@@ -135,7 +135,7 @@ function HeadSection(props) {
                                     <Box mb={4}>
                                         <Typography
                                             variant={"h3"} align="center">
-                                            AR Model Viewer
+                                            Festo AR Model Viewer
                                         </Typography>
                                     </Box>
                                     <div>

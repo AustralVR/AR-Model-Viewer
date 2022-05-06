@@ -67,21 +67,14 @@ function PricingSection(props) {
                     minWidth: '180px',
                     minHeight: '80px',
                     margin: '10px'
-                }}  href={"https://matigayito.github.io/model-viewer/models_scenes/ASCF/ASCF.html"}>ASCF-H-L1-10-9V</Button>
+                }}  href={"https://matigayito.github.io/model-viewer/models_scenes/ASCF/ASCF.html"}>VTEM</Button>
                 <Button variant="contained" size="large" style={{
                     maxWidth: '180px',
                     maxHeight: '80px',
                     minWidth: '180px',
                     minHeight: '80px',
                     margin: '10px'
-                }} href={"https://matigayito.github.io/model-viewer/models_scenes/BSD/BSD.html"}>BSD-HSW-10</Button>
-                <Button variant="contained" size="large" style={{
-                    maxWidth: '180px',
-                    maxHeight: '80px',
-                    minWidth: '180px',
-                    minHeight: '80px',
-                    margin: '10px'
-                }} href={"https://matigayito.github.io/model-viewer/models_scenes/HSP/HSP.html"}>HSP-12-AP-SD</Button>
+                }} href={"https://matigayito.github.io/model-viewer/models_scenes/BSD/BSD.html"}>MSE6-E2M</Button>
             </div>
             <div align="center">
 
