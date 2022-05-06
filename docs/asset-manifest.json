@@ -3,15 +3,15 @@
     "main.css": "/AR-Model-Viewer/static/css/main.28a77b95.chunk.css",
     "main.js": "/AR-Model-Viewer/static/js/main.6f99a69f.chunk.js",
     "main.js.map": "/AR-Model-Viewer/static/js/main.6f99a69f.chunk.js.map",
-    "runtime-main.js": "/AR-Model-Viewer/static/js/runtime-main.2b0417aa.js",
-    "runtime-main.js.map": "/AR-Model-Viewer/static/js/runtime-main.2b0417aa.js.map",
+    "runtime-main.js": "/AR-Model-Viewer/static/js/runtime-main.c2c5324e.js",
+    "runtime-main.js.map": "/AR-Model-Viewer/static/js/runtime-main.c2c5324e.js.map",
     "static/css/2.ec02d681.chunk.css": "/AR-Model-Viewer/static/css/2.ec02d681.chunk.css",
     "static/js/2.9354ee86.chunk.js": "/AR-Model-Viewer/static/js/2.9354ee86.chunk.js",
     "static/js/2.9354ee86.chunk.js.map": "/AR-Model-Viewer/static/js/2.9354ee86.chunk.js.map",
     "static/js/3.63c4496c.chunk.js": "/AR-Model-Viewer/static/js/3.63c4496c.chunk.js",
     "static/js/3.63c4496c.chunk.js.map": "/AR-Model-Viewer/static/js/3.63c4496c.chunk.js.map",
-    "static/js/4.dca4cd7b.chunk.js": "/AR-Model-Viewer/static/js/4.dca4cd7b.chunk.js",
-    "static/js/4.dca4cd7b.chunk.js.map": "/AR-Model-Viewer/static/js/4.dca4cd7b.chunk.js.map",
+    "static/js/4.a52b14df.chunk.js": "/AR-Model-Viewer/static/js/4.a52b14df.chunk.js",
+    "static/js/4.a52b14df.chunk.js.map": "/AR-Model-Viewer/static/js/4.a52b14df.chunk.js.map",
     "index.html": "/AR-Model-Viewer/index.html",
     "service-worker.js": "/AR-Model-Viewer/service-worker.js",
     "service-worker.js.map": "/AR-Model-Viewer/service-worker.js.map",
@@ -22,7 +22,7 @@
     "static/js/main.6f99a69f.chunk.js.LICENSE.txt": "/AR-Model-Viewer/static/js/main.6f99a69f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b0417aa.js",
+    "static/js/runtime-main.c2c5324e.js",
     "static/js/3.63c4496c.chunk.js",
     "static/css/main.28a77b95.chunk.css",
     "static/js/main.6f99a69f.chunk.js"
