@@ -67,14 +67,14 @@ function PricingSection(props) {
                     minWidth: '180px',
                     minHeight: '80px',
                     margin: '10px'
-                }}  href={"https://matigayito.github.io/model-viewer/models_scenes/ASCF/ASCF.html"}>VTEM</Button>
+                }}  href={"https://australvr.github.io/Model-Viewer/models_scenes/VTEM/index.html"}>VTEM</Button>
                 <Button variant="contained" size="large" style={{
                     maxWidth: '180px',
                     maxHeight: '80px',
                     minWidth: '180px',
                     minHeight: '80px',
                     margin: '10px'
-                }} href={"https://matigayito.github.io/model-viewer/models_scenes/BSD/BSD.html"}>MSE6-E2M</Button>
+                }} href={"https://australvr.github.io/Model-Viewer/models_scenes/MSE6-E2M/index.html"}>MSE6-E2M</Button>
             </div>
             <div align="center">
 
