@@ -12,6 +12,8 @@ import Button from '@mui/material/Button';
 import PriceCard from "./PriceCard";
 import calculateSpacing from "./calculateSpacing";
 import {CircularProgress} from "@mui/material";
+import VTEMImage from "./VTEM.png"
+import MSE6Image from "./MSE6-E2M.png"
 
 const styles = theme => ({
     containerFix: {
@@ -53,28 +55,37 @@ function PricingSection(props) {
     return (
         <div ref={ref} className="lg-p-top" id={'result'} style={{backgroundColor: "#ffffff"}}>
             <Typography variant="h3" align="center" className="lg-ms-bottom">
-                Piezas disponibles
+                Nuestros productos:
             </Typography>
-            {/*<div style={{width: '100%', display: 'flex', justifyContent: 'center', height: 300, alignItems: 'center'}}>*/}
-            {/*    <Typography variant="h5" align="center" color={'#f1f1f1'}>*/}
-            {/*        Aca deberíamos mostrar accesos a los modelos.*/}
-            {/*    </Typography>*/}
-            {/*</div>*/}
             <div align="center" style={{margin:'60px'}}>
                 <Button variant="contained" size="large" style={{
-                    maxWidth: '180px',
-                    maxHeight: '80px',
-                    minWidth: '180px',
-                    minHeight: '80px',
+                    maxWidth: '420px',
+                    maxHeight: '160px',
+                    minWidth: '420px',
+                    minHeight: '160px',
                     margin: '10px'
-                }}  href={"https://australvr.github.io/Model-Viewer/models_scenes/VTEM/index.html"}>VTEM</Button>
+                }}  href={"https://australvr.github.io/Model-Viewer/models_scenes/VTEM/index.html"}>
+                <img src={VTEMImage} width={270} height={120}/>
+                    <ul></ul>
+                    <Typography variant="h3" align="center" className="lg-ms-bottom">
+                        VTEM
+                    </Typography></Button>
+
+            </div>
+            <div align="center" style={{margin:'60px'}}>
                 <Button variant="contained" size="large" style={{
-                    maxWidth: '180px',
-                    maxHeight: '80px',
-                    minWidth: '180px',
-                    minHeight: '80px',
+                    maxWidth: '420px',
+                    maxHeight: '160px',
+                    minWidth: '420px',
+                    minHeight: '160px',
                     margin: '10px'
-                }} href={"https://australvr.github.io/Model-Viewer/models_scenes/MSE6-E2M/index.html"}>MSE6-E2M</Button>
+                }}  href={"https://australvr.github.io/Model-Viewer/models_scenes/MSE6-E2M/index.html"}>
+                    <img src={MSE6Image} width={86.4} height={120}/>
+                    <ul></ul>
+                    <Typography variant="h3" align="center" className="lg-ms-bottom" >
+                        MSE6-E2M
+                    </Typography></Button>
+
             </div>
             <div align="center">
 
