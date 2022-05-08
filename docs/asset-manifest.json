@@ -3,15 +3,15 @@
     "main.css": "/AR-Model-Viewer/static/css/main.28a77b95.chunk.css",
     "main.js": "/AR-Model-Viewer/static/js/main.6f99a69f.chunk.js",
     "main.js.map": "/AR-Model-Viewer/static/js/main.6f99a69f.chunk.js.map",
-    "runtime-main.js": "/AR-Model-Viewer/static/js/runtime-main.3583f7e1.js",
-    "runtime-main.js.map": "/AR-Model-Viewer/static/js/runtime-main.3583f7e1.js.map",
+    "runtime-main.js": "/AR-Model-Viewer/static/js/runtime-main.9046b706.js",
+    "runtime-main.js.map": "/AR-Model-Viewer/static/js/runtime-main.9046b706.js.map",
     "static/css/2.ec02d681.chunk.css": "/AR-Model-Viewer/static/css/2.ec02d681.chunk.css",
     "static/js/2.9354ee86.chunk.js": "/AR-Model-Viewer/static/js/2.9354ee86.chunk.js",
     "static/js/2.9354ee86.chunk.js.map": "/AR-Model-Viewer/static/js/2.9354ee86.chunk.js.map",
     "static/js/3.63c4496c.chunk.js": "/AR-Model-Viewer/static/js/3.63c4496c.chunk.js",
     "static/js/3.63c4496c.chunk.js.map": "/AR-Model-Viewer/static/js/3.63c4496c.chunk.js.map",
-    "static/js/4.20ec3ff8.chunk.js": "/AR-Model-Viewer/static/js/4.20ec3ff8.chunk.js",
-    "static/js/4.20ec3ff8.chunk.js.map": "/AR-Model-Viewer/static/js/4.20ec3ff8.chunk.js.map",
+    "static/js/4.02de936a.chunk.js": "/AR-Model-Viewer/static/js/4.02de936a.chunk.js",
+    "static/js/4.02de936a.chunk.js.map": "/AR-Model-Viewer/static/js/4.02de936a.chunk.js.map",
     "index.html": "/AR-Model-Viewer/index.html",
     "service-worker.js": "/AR-Model-Viewer/service-worker.js",
     "service-worker.js.map": "/AR-Model-Viewer/service-worker.js.map",
@@ -25,7 +25,7 @@
     "static/media/logo_festo.b6294cc9.svg": "/AR-Model-Viewer/static/media/logo_festo.b6294cc9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3583f7e1.js",
+    "static/js/runtime-main.9046b706.js",
     "static/js/3.63c4496c.chunk.js",
     "static/css/main.28a77b95.chunk.css",
     "static/js/main.6f99a69f.chunk.js"

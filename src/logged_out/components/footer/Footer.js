@@ -129,7 +129,7 @@ function Footer(props) {
                 <Grid container spacing={isWidthUp("md", width) ? 10 : 5}>
                     <Grid item xs={12} md={6} lg={4}>
                         <img alt={'alt'}
-                             src={`${process.env.PUBLIC_URL}/images/logged_out/ua-ingenieria-color-logo.png`}/>
+                             src={`${process.env.PUBLIC_URL}/images/logged_out/ua-ingenieria-color-logo.png`} width={735*0.48} height={144*0.48}/>
                     </Grid>
                     <Hidden mdDown>
                         <Grid item xs={12} md={6} lg={4}>

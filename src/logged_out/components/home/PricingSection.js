@@ -57,35 +57,70 @@ function PricingSection(props) {
             <Typography variant="h3" align="center" className="lg-ms-bottom">
                 Nuestros productos:
             </Typography>
-            <div align="center" style={{margin:'60px'}}>
+            <div align="center">
                 <Button variant="contained" size="large" style={{
-                    maxWidth: '420px',
+                    maxWidth: '315px',
                     maxHeight: '160px',
-                    minWidth: '420px',
+                    minWidth: '315px',
                     minHeight: '160px',
                     margin: '10px'
-                }}  href={"https://australvr.github.io/Model-Viewer/models_scenes/VTEM/index.html"}>
-                <img src={VTEMImage} width={270} height={120}/>
-                    <ul></ul>
-                    <Typography variant="h3" align="center" className="lg-ms-bottom">
+                }} href={"https://australvr.github.io/Model-Viewer/models_scenes/VTEM/index.html"}>
+                    <img src={VTEMImage} width={180} height={120}/>
+                    <Typography variant="h4" align="center" className="lg-ms-bottom" style={{margin: '20px'}}>
                         VTEM
-                    </Typography></Button>
-
+                    </Typography>
+                </Button>
+                <div style={{display: 'inline-grid'}}>
+                    <Button variant="contained" size="medium"
+                            href={"https://www.festo.com/ar/es/e/soluciones/digitalizacion/neumatica-digitalizada-con-el-motion-terminal/-estandarizado-y-muy-flexible-id_400087/#"}  style={{
+                        margin: '10px'
+                    }}>
+                        <Typography align="center" style={{margin: '10px'}}>
+                            Estandarización
+                        </Typography>
+                    </Button>
+                    <Button variant="contained" size="medium"
+                            href={"https://www.youtube.com/watch?v=oQS4vQ7D-Jw&list=PLMPITBtM1tjgip4VUz0xg-yK-ma8Rsx0C&ab_channel=FestoEspa%C3%B1a"} style={{
+                        margin: '10px'
+                    }}>
+                        <Typography align="center" style={{margin: '10px'}}>
+                            Aplicaciones
+                        </Typography>
+                    </Button>
+                </div>
             </div>
-            <div align="center" style={{margin:'60px'}}>
+            <div align="center">
                 <Button variant="contained" size="large" style={{
-                    maxWidth: '420px',
+                    maxWidth: '315px',
                     maxHeight: '160px',
-                    minWidth: '420px',
+                    minWidth: '315px',
                     minHeight: '160px',
                     margin: '10px'
-                }}  href={"https://australvr.github.io/Model-Viewer/models_scenes/MSE6-E2M/index.html"}>
+                }} href={"https://australvr.github.io/Model-Viewer/models_scenes/MSE6-E2M/index.html"}>
                     <img src={MSE6Image} width={86.4} height={120}/>
-                    <ul></ul>
-                    <Typography variant="h3" align="center" className="lg-ms-bottom" >
+                    <ul/>
+                    <Typography variant="h4" align="center" className="lg-ms-bottom">
                         MSE6-E2M
-                    </Typography></Button>
-
+                    </Typography>
+                </Button>
+                <div style={{display: 'inline-grid'}}>
+                    <Button variant="contained" size="medium"
+                            href={"https://www.festo.com/ar/es/p/unidad-de-mantenimiento-combinada-id_MSE6_C2M/?q=c2m~:festoSortOrderScored"}  style={{
+                        margin: '10px'
+                    }}>
+                        <Typography align="center" style={{margin: '10px'}}>
+                            Comprar
+                        </Typography>
+                    </Button>
+                    <Button variant="contained" size="medium"
+                            href={"https://www.youtube.com/watch?reload=9&v=gUboHVkqr4U&ab_channel=FestoEspa%C3%B1a"} style={{
+                        margin: '10px'
+                    }}>
+                        <Typography align="center" style={{margin: '10px'}}>
+                            Aplicaciones
+                        </Typography>
+                    </Button>
+                </div>
             </div>
             <div align="center">
 
